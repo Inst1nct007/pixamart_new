@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "367758050020",
+    "firebase_url": "https://pixamart-ffe79-default-rtdb.firebaseio.com",
+    "project_id": "pixamart-ffe79",
+    "storage_bucket": "pixamart-ffe79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367758050020:android:8f75ff54dafab46355e2f1",
+        "android_client_info": {
+          "package_name": "com.wallpaper.pixamart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367758050020-3igmu99blsfqv6bs6lpd12gukui81rhv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wallpaper.pixamart",
+            "certificate_hash": "3feb0891534b598310f46ce90a6813b69cefea36"
+          }
+        },
+        {
+          "client_id": "367758050020-4dc5v7cnhd54lvthkjs6do7l6ehtea8k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wallpaper.pixamart",
+            "certificate_hash": "0ddbdca54b9adfb48c74dbabf359551bf9317c4b"
+          }
+        },
+        {
+          "client_id": "367758050020-63f1c9l1eqbl24p4idqtaakih7cg4i38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANSwOaDENM1u-EquVmuvmvDxh2O5gvFmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367758050020-63f1c9l1eqbl24p4idqtaakih7cg4i38.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "367758050020-lfa0n3nivqqt7sbjkr9ioh8k1p38ubfm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pixamart"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
